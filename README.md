@@ -1,4 +1,4 @@
-# 🏦 LoanSage AI: Intelligent Loan Approval Prediction System
+# 🏦 HILOANPREDICT: Intelligent Loan Approval Prediction System
 
 ![Loan Prediction](https://img.shields.io/badge/AI-Loan%20Prediction-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen)
